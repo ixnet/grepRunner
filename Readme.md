@@ -5,7 +5,7 @@
 ```bash
 chmod +x grepRunner.sh
 ```
-## Paramters
+## Parameters
 
 ```bash
 ./grepRunner.sh DIRECTORY_TO_SCAN ADDITIONAL_PARAMETERS_FOR_GREP MODE
@@ -20,3 +20,8 @@ Supported mode:
 - SSTI
 - FileUpload
 
+>Example
+
+```bash
+./grepRunner.sh ~/Documents/buggyWebApps/sources/juice-shop/ "--exclude-dir={frontend,node_modules,i18n,build,test,data,.git,.github}" NodeJS
+```
