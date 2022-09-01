@@ -1,0 +1,10 @@
+^.*RNGCryptoServiceProvider.*
+^.*SHA.*
+^.*MD5.*
+^.*base64.*
+^.*DES.*
+^.*RC2.*
+^.*System/.Security/.Cryptography.*
+^.*System/.Random.*
+^.*Random.*
+^.*xor.*

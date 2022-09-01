@@ -1,0 +1,33 @@
+^.*exec sp_.*
+^.*select from.*
+^.*insert.*
+^.*update.*
+^.*delete from where.*
+^.*delete.*
+^.*execute sp_.*
+^.*exec xp_.*
+^.*/.Provider.*
+^.*System/.Data/.sql.*
+^.*ADODB/.recordset.*
+^.*New OleDbConnection.*
+^.*ExecuteReader.*
+^.*DataSource.*
+^.*SqlCommand.*
+^.*Microsoft/.Jet.*
+^.*SqlDataReader.*
+^.*ExecuteReader.*
+^.*SqlDataAdapter.*
+^.*StoredProcedure.*
+^.*sqloledb.*
+^.*sql.*
+^.*server.*
+^.*driver.*
+^.*Server/.CreateObject.*
+^.*exec @.*
+^.*execute @.*
+^.*executestatement.*
+^.*executeSQL.*
+^.*setflter.*
+^.*executeQuery.*
+^.*GetQueryResultInXML.*
+^.*adodb.*

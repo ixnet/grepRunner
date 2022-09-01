@@ -1,0 +1,17 @@
+^.*java/.sql/.Connection/.prepareStatement.*
+^.*java/.sql/.ResultSet/.getObject.*
+^.*select.*
+^.*insert.*
+^.*java/.sql/.Statement/.executeQuery.*
+^.*java/.sql/.Statement/.execute.*
+^.*delete.*
+^.*update.*
+^.*java/.sql/.Connection/.prepareCall.*
+^.*createStatement.*
+^.*java/.sql/.ResultSet/.getString.*
+^.*executeQuery.*
+^.*jdbc.*
+^.*java/.sql/.Statement/.executeUpdate.*
+^.*java/.sql/.Statement/.addBatch.*
+^.*execute.*
+^.*executestatement.*

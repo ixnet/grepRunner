@@ -1,0 +1,7 @@
+^.*fs\.createWriteStream(.*)
+^.*\$_FILES.*
+^.*System\.IO\.Path.*
+^.*Path\.GetFileName.*
+^.*storageService\.store(.*)
+^.*file\.getOriginalFilename(.*)
+^.*InputStream fileInputStream.*s\.path\.join(.*)
