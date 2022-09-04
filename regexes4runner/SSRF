@@ -1,0 +1,29 @@
+^.*http_build_query.*
+^.*curl_exec(.*).*
+^.*use GuzzleHttp\\Client.*
+^.*\$client->request(.*).*
+^.*use Httpful\\Request.*
+^.*use Symfony\\Component\\HttpClient\\HttpClient.*
+^.*Request::get.*
+^.*Request::post.*
+^.*HttpClient::create.*
+^.*HttpRequest\.newBuilder(.*)
+^.*HttpURLConnection connection = \(HttpURLConnection\) url\.openConnection(.*)
+^.*new HttpGet(.*)
+^.*new Request\.Builder(.*)
+^.*webClientBuilder\.baseUrl(.*)
+^.*new RestRequest(.*).*
+^.*using \(HttpClient client = new HttpClient\(\)\).*
+^.*System\.Net\.WebRequest\.Create.*
+^.*HttpMessageInvoker\.SendAsync.*
+^.*HubConnectionBuilder\(\)\.WithUrl.*
+^.*System\.Net\.Sockets\.Socket.*
+^.*RestSharp\.RestClient.*
+\.urlopen(.*)
+^.*requests.*
+^.*urllib3.*
+^.*httplib2.*
+^.*httpx.*
+require\('axios'\)
+require\('https'\)
+require\('request'\)

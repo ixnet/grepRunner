@@ -1,4 +1,4 @@
-^.*javax/.servlet/.*.*
+^.*javax\.servlet\.*.*
 ^.*getParameterNames.*
 ^.*getParameterValues.*
 ^.*getParameter.*
@@ -43,7 +43,7 @@
 ^.*setHeader.*
 ^.*setAttribute.*
 ^.*putValue.*
-^.*javax/.servlet/.http/.Cookie.*
+^.*javax\.servlet\.http\.Cookie.*
 ^.*getOutputStream.*
 ^.*getWriter.*
 ^.*addCookie.*

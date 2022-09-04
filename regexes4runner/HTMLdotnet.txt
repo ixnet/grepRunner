@@ -1,4 +1,4 @@
-^.*response/.write.*
+^.*response\.write.*
 ^.*HttpUtility.*
 ^.*HtmlEncode.*
 ^.*UrlEncode.*

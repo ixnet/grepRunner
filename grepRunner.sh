@@ -34,6 +34,7 @@ regex_file[IO_Java_FULL]="regexes4runner/IOjava.txt"
 regex_file[Servlets_Java_FULL]="regexes4runner/Servletsjava.txt"
 regex_file[SSTI_FULL]="regexes4runner/SSTI.txt"
 regex_file[FileUpload_FULL]="regexes4runner/FileUpload.txt"
+regex_file[SSRF_FULL]="regexes4runner/SSRF.txt"
 
 for i in "${!regex_file[@]}"
 	do

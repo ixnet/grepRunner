@@ -6,14 +6,14 @@
 ^.*delete.*
 ^.*execute sp_.*
 ^.*exec xp_.*
-^.*/.Provider.*
-^.*System/.Data/.sql.*
-^.*ADODB/.recordset.*
+^.*\.Provider.*
+^.*System\.Data\.sql.*
+^.*ADODB\.recordset.*
 ^.*New OleDbConnection.*
 ^.*ExecuteReader.*
 ^.*DataSource.*
 ^.*SqlCommand.*
-^.*Microsoft/.Jet.*
+^.*Microsoft\.Jet.*
 ^.*SqlDataReader.*
 ^.*ExecuteReader.*
 ^.*SqlDataAdapter.*
@@ -22,7 +22,7 @@
 ^.*sql.*
 ^.*server.*
 ^.*driver.*
-^.*Server/.CreateObject.*
+^.*Server\.CreateObject.*
 ^.*exec @.*
 ^.*execute @.*
 ^.*executestatement.*
@@ -31,3 +31,8 @@
 ^.*executeQuery.*
 ^.*GetQueryResultInXML.*
 ^.*adodb.*
+^.*NpgsqlCommand.*
+^.*Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.Sql.*
+^.*FromSqlRaw.*
+^.*System.Management.WqlEventQuery.*
+^.*RunQuery.*
