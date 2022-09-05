@@ -1,9 +1,7 @@
 ^.*exec sp_.*
 ^.*select from.*
 ^.*insert.*
-^.*update.*
 ^.*delete from where.*
-^.*delete.*
 ^.*execute sp_.*
 ^.*exec xp_.*
 ^.*\.Provider.*
@@ -20,8 +18,6 @@
 ^.*StoredProcedure.*
 ^.*sqloledb.*
 ^.*sql.*
-^.*server.*
-^.*driver.*
 ^.*Server\.CreateObject.*
 ^.*exec @.*
 ^.*execute @.*

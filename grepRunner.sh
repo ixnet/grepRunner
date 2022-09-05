@@ -36,6 +36,8 @@ regex_file[SSTI_FULL]="regexes4runner/SSTI.txt"
 regex_file[FileUpload_FULL]="regexes4runner/FileUpload.txt"
 regex_file[SSRF_FULL]="regexes4runner/SSRF.txt"
 regex_file[XXE_FULL]="regexes4runner/XXE.txt"
+regex_file[SQL_PHP_FULL]="regexes4runner/SQLphp.txt"
+
 
 for i in "${!regex_file[@]}"
 	do
