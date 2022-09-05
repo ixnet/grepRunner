@@ -27,3 +27,4 @@
 ^.*_pickle.*
 ^.*yaml/.load(.*).*
 ^.*JavaScriptTypeResolver.*
+^.*require\('node-serialize'\).*
