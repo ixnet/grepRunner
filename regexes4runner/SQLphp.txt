@@ -1,0 +1,9 @@
+^.*\$conn->query(\$sql).*
+^.*new mysqli(.*).*
+^.*mysqli_query(\$conn, \$sql).*
+^.*pg_query(\$conn, \$query).*
+^.*odbc_exec(\$conn, \$query).*
+^.*\$conn->query(.*)
+^.*mysqli_query(.*)
+^.*pg_query(.*)
+^.*odbc_exec(.*)

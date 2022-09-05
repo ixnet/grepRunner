@@ -1,0 +1,37 @@
+^.*xml/.parsers/.DocumentBuilderFactory.*
+^.*SAXParserFactory.*
+^.*XMLReader.*
+^.*XMLInputFactory.*
+^.*oracle/.xml/.parser/.v2/.XMLParser.*
+^.*new DOMParser(.*).*
+^.*javax/.xml/.transform/.TransformerFactory.*
+^.*javax/.xml/.validation/.Validator.*
+^.*javax/.xml/.validation/.SchemaFactory.*
+^.*javax/.xml/.transform/.sax/.SAXTransformerFactory.*
+^.*org/.xml/.sax/.XMLReader.*
+^.*org/.dom4j/.io/.SAXReader.*
+^.*org/.jdom2/.input/.SAXBuilder.*
+^.*EntityResolver.*
+^.*javax/.xml/.bind/.Unmarshaller.*
+^.*javax/.xml/.xpath/.XPathExpression.*
+^.*java/.beans/.XMLDecoder.*
+^.*org/.springframework/.oxm/.Jaxb2Marshaller.*
+^.*org/.springframework/.oxm/.jaxb/.Jaxb2Marshaller.*
+^.*DOM.*
+^.*libxml.*
+^.*SimpleXML.*
+^.*WDDX.*
+^.*XMLDiff.*
+^.*new_xml_parser.*
+^.*libxml_set_external_entity_loader.*
+^.*System/.Xml/.Linq.*
+^.*XElement.*
+^.*XDocument.*
+^.*System/.Xml/.XmlDictionaryReader.*
+^.*System/.Xml/.XmlDocument.*
+^.*new XmlDocument(.*).*
+^.*System/.Xml/.XmlNodeReader.*
+^.*System/.Xml/.XmlReader.*
+^.*System/.Xml/.XmlTextReader.*
+^.*System/.Xml/.XPath/.XPathNavigator.*
+^.*System/.Xml/.Xsl/.XslCompiledTransform.*

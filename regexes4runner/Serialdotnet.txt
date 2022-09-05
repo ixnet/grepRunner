@@ -1,6 +1,0 @@
-^.*Serializable.*
-^.*AllowPartiallyTrustedCallersAttribute.*
-^.*GetObjectData.*
-^.*System\.Refection.*
-^.*StrongNameIdentity.*
-^.*StrongNameIdentityPermission.*
