@@ -8,3 +8,4 @@
 ^.*System\.Random.*
 ^.*Random.*
 ^.*xor.*
+^.*hash(.*)

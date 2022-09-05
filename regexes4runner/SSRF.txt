@@ -24,6 +24,6 @@
 ^.*urllib3.*
 ^.*httplib2.*
 ^.*httpx.*
-require\('axios'\)
-require\('https'\)
-require\('request'\)
+^.*require\('axios'\).*
+^.*require\('https'\).*
+^.*require\('request'\).*

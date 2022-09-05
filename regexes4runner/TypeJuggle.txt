@@ -1,0 +1,4 @@
+^.*!= substr(.*)
+^.*== substr(.*)
+^.*strcasecmp(.*)
+^.*strcmp(.*)

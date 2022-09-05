@@ -5,3 +5,5 @@
 ^.*storageService\.store(.*)
 ^.*file\.getOriginalFilename(.*)
 ^.*InputStream fileInputStream.*s\.path\.join(.*)
+^.*move_uploaded_file.*
+^.*scandir(.*)
