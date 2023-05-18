@@ -1,0 +1,6 @@
+^.*Channel.*
+^.*Veeam\.SPP\.Communication.*
+^.*ReceiverGate.*
+^.*ChannelEndPoint.*
+^.*ChannelHostReceiver.*
+^.*ChannelHost.*

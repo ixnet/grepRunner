@@ -38,6 +38,7 @@ regex_file[SSRF_FULL_AuthBypass]="regexes4runner/SSRF.txt"
 regex_file[XXE_FULL_Helper]="regexes4runner/XXE.txt"
 regex_file[SQL_PHP_FULL_AuthBypass]="regexes4runner/SQLphp.txt"
 regex_file[TypeJuggle_PHP_FULL_AuthBypass]="regexes4runner/TypeJuggle.txt"
+regex_file[VCF_RCE]="regexes4runner/VCF.txt"
 
 
 for i in "${!regex_file[@]}"
